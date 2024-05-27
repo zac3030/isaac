@@ -7,3 +7,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante
+https://marcelopaludetto2.github.io/js-escrevenome/marcelo.html
