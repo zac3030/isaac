@@ -8,3 +8,4 @@ alurastartestudante@email.com
 
 @alurastartestudante
 https://marcelopaludetto2.github.io/js-escrevenome/marcelo.html
+DOUGLAS E VIADO tu mesmo professor de quimica
